@@ -33,18 +33,8 @@ NumPy – numerical operations
 All required and compatible library versions are listed in requirements.txt to avoid dependency conflicts.
 
 ## 📁 Project Structure ##
-HandSignDetection/
-│
-├── Model/
-│   ├── keras_model.h5
-│   └── labels.txt
-│
-├── Data/
-│   └── (self-collected training images)
-│
-├── main.py
-├── requirements.txt
-└── README.md
+<img width="773" height="423" alt="image" src="https://github.com/user-attachments/assets/31c508b1-8cec-491b-9825-5345c8c06514" />
+
 
 ## 🖐️ How It Works ##
 
@@ -60,6 +50,7 @@ Predicted ASL alphabet is displayed in real time
 
 ## ⚙️ Setup & Run ##
 pip install -r requirements.txt
+
 python main.py
 
 
@@ -91,7 +82,7 @@ Convert predictions to text or speech output
 
 Optimize performance for low-end systems
 
-🤝 Connect
+## 🤝 Connect ##
 
 If you found this project interesting, feel free to ⭐ the repository and connect with me on LinkedIn.
 
