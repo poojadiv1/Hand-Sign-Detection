@@ -12,6 +12,7 @@ imgSize = 300
 offset = 20
 
 folder = "Data/F"
+# Change the folder name manually (e.g., Data/A, Data/B, Data/C, etc.) to collect data for different alphabets
 counter = 0
 
 while True:
